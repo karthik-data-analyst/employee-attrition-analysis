@@ -28,8 +28,7 @@ Accuracy: **80%**
 
 ## 📁 Files Included
 - Jupyter Notebook (.ipynb)
-- Power BI Dashboard (To be uploaded)
-- SQL Queries (To be uploaded)
+- Power BI Dashboard 
 
 ---
 
